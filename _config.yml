@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: martinfullstackdevsap/main
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Martin Mikus
 title: Senior SAP FullStack Developer
 email: martinmikus2@protonmail.com
-phone: 654645
+phone: +420 601 531 976
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
