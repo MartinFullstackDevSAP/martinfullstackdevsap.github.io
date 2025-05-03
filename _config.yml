@@ -46,12 +46,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome to my professional work profile. My name is Martin and I am full stack SAP developer. I work daily with <mark>ABAP</mark> <mark>SAPUI5</mark> <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>. I work in <mark>S4 HANA</mark> but also
-  in older ERP releases. Mainly in modules FI-CO, HR/HCM, SD, MM and BW.
-  For development I use <mark>Elipse ADT</mark> and <mark>Business Application Studio</mark> . 
-  I am also familiar with <mark>GIT</mark> and <mark>VS Code</mark>.
-  I successfully delivered multiple projects for european and asian customers. Apart from projects development I support business as usual in meaning of analysis of errors, fixing of bugs and design of budiness solutions.
-  In the projects I highlighted the biggest where development took longer then two months.
+  Welcome to my professional work profile.
+  My name is Martin, and I am a Full-Stack SAP Developer. I work daily with <mark>ABAP</mark>, <mark>SAPUI5</mark>, <mark>JavaScript</mark>, and <mark>SAP Business Workflow</mark>. I specialize in <mark>SAP S/4HANA</mark> but also have experience with older ERP releases, primarily in <mark>FI-CO</mark>, <mark>HR/HCM</mark>, <mark>SD</mark>, <mark>MM</mark>, and <mark>BW</mark>.  
+
+  For development, I use <mark>Eclipse ADT</mark> and <mark>SAP Business Application Studio</mark>. I’m also familiar with <mark>Git</mark> and <mark>VS Code</mark>. I have successfully delivered multiple projects for European and Asian customers.
+
+  Apart from project development, I support business as usual—analyzing errors, fixing bugs, and designing business solutions. In my projects, I’ve highlighted the most significant ones—those where development took longer than two months.
 
 content:
   - title: Projects # Title for the section
