@@ -46,7 +46,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-bdbsbsb
+  Welcome to my professional work profile. My name is Martin and I am full stack SAP developer. I work daily with <mark>ABAP</mark>, <mark>SAPUI5</mark>, <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>.
+  I successfully delivered multiple projects for european and asian cudtomers. Apart from projects development I support business as usual. For development I use <mark>Elipse ADT</mark>
 
 content:
   - title: Projects # Title for the section
