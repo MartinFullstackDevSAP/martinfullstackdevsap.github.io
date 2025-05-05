@@ -74,7 +74,7 @@ content:
           I used <mark>Git</mark> for collaboration between team members and IDE <mark>SAP Business Application Studio</mark> for UI development.
       - layout: left
         title: SAP e-shop integration www.teta.cz
-        sub_title: Heidelberg Materials Germany
+        sub_title: TETA Czech Republic
         caption: Duration - 1 year (2024-2025)
         description: | # this will include new lines to allow paragraphs
           I developed a complete backend solution for e-shop www.teta.cz . For communication between e-shop and SAP I builded Swagger <mark>REST</mark> API to provide and consume data.
