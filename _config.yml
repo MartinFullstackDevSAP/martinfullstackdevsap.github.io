@@ -73,7 +73,7 @@ content:
           I developed core <mark>ABAP</mark> application classes,  tax calculations and logic in <mark>BW</mark>. I designed and builded <mark>oData</mark> service for data consumption.
           I used <mark>Git</mark> for collaboration between team members and IDE <mark>SAP Business Application Studio</mark> for UI development.
       - layout: left
-        title: SAP e-shop www.teta.cz
+        title: SAP e-shop TETA
         sub_title: p.k.Solvent s.r.o., Czech Republic
         caption: Duration - 1 year 6 months (2023-2024)
         description: | # this will include new lines to allow paragraphs
@@ -89,7 +89,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           I took care about development of custom Asset Management <mark>SAPUI5</mark> applications for administration of company assets. I developed <mark>ABAP</mark>
           application classes that provided data to custom <mark>oData</mark> services. To handle asset transfer approval between employees I designed and developed custom
-          class based <mark>SAP Business Workflow</mark> and developed custom My Inbox approval screen.
+          class based <mark>SAP Business Workflow</mark> and developed custom My Inbox approval screens. In the end of project I created user roles with relevant authorizations and registered application
+          into <mark>Fiori</mark> Launchpad.
+      - layout: left
+        title: Bizzi REST Integration
+        sub_title: Home Credit, Vietnam
+        caption: Duration - 4 months (2024)
+        description: | # this will include new lines to allow paragraphs
+          I participated on integration of third-party <mark>REST</mark> API into SAP. The project consisted of application <mark>ABAP</mark> classes with logic to create,
+          update and delete of invoices, purchases orders, good receipts and travel receipts. Application classes handled inbound and outbound communication between SAP and third-party external system Bizzi.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
