@@ -65,10 +65,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Super awesome project 54654
+        title: Magellen Tax Portal
+        sub_title: Heidelberg Materials
+        caption: Germany
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-    
+          I participated on development of Tax Portal as technical team leader. I designed and developed UI of final solution using custom <mark>SAPUI5</mark> SDK.
+          I developed core <mark>ABAP</mark> application classes and logic in <mark>BW</mark>. We used <mark>Git</mark> for collaboration between team members.
+          
+          Project duration: 1 year
       - layout: left
         title: Super awesome project 2
         description: | # this will include new lines to allow paragraphs
