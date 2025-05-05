@@ -84,7 +84,7 @@ content:
           In the end I integrated third-party <mark>REST</mark> API Balikomat to automatically create package labels, print labels, and register of packages for delivery service providers.
       - layout: left
         title: Asset Management
-        sub_title: HomeCredit, Kazakhstan
+        sub_title: Home Credit, Kazakhstan
         caption: Duration - 3 months (2024)
         description: | # this will include new lines to allow paragraphs
           I took care about development of custom Asset Management <mark>SAPUI5</mark> applications for administration of company assets. I developed <mark>ABAP</mark>
