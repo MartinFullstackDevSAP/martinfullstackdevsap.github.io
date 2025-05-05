@@ -75,7 +75,7 @@ content:
       - layout: left
         title: SAP e-shop integration www.teta.cz
         sub_title: p.k.Solvent s.r.o. Czech Republic
-        caption: Duration - 1 year (2024-2025)
+        caption: Duration - 1,5 year (2023-2024)
         description: | # this will include new lines to allow paragraphs
           I developed a complete backend solution for e-shop www.teta.cz . For communication between e-shop and SAP I builded Swagger <mark>REST</mark> API to provide and consume data.
           With the retrieved data in <mark>ABAP</mark> I developed core logic to create purchase orders, invoices, deliveries, reservations, stocks, WM movements and other related objects.
