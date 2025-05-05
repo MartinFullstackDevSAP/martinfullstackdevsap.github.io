@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Mikus
-title: Senior SAP Full Stack Developer
+title: Senior SAP Full-Stack Developer
 email: martinmikus2@protonmail.com
 phone: +420 601 531 976
 #website: www.github.com/sproogen/resume-theme
@@ -47,11 +47,17 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Welcome to my professional work profile.
-  My name is Martin, and I am a Full-Stack SAP Developer. I work daily with <mark>ABAP</mark>, <mark>SAPUI5</mark>, <mark>JavaScript</mark>, and <mark>SAP Business Workflow</mark>. I specialize in <mark>SAP S/4HANA</mark> but also have experience with older ERP releases, primarily in <mark>FI-CO</mark>, <mark>HR/HCM</mark>, <mark>SD</mark>, <mark>MM</mark>, and <mark>BW</mark>.  
+  My name is Martin, and I am a Full-Stack SAP Developer. I work daily with <mark>ABAP</mark> <mark>SAPUI5 / SAP Fiori</mark> <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>. 
+  I am also familiar with building of <mark>oData</mark> services <mark>REST</mark> APIs <mark>CDS</mark> views and <mark>SOAP</mark> services.
+  
+  Mostly I work in <mark>SAP S/4HANA</mark> environment but also have experience with older ERP releases. 
+  Primarily in modules <mark>FI-CO</mark>, <mark>HR/HCM</mark>, <mark>SD</mark>, <mark>MM</mark>, and <mark>BW</mark>.  
 
-  For development, I use <mark>Eclipse ADT</mark> and <mark>SAP Business Application Studio</mark>. I’m also familiar with <mark>Git</mark> and <mark>VS Code</mark>. I have successfully delivered multiple projects for European and Asian customers.
+  For development, I use <mark>Eclipse ADT</mark> and <mark>SAP Business Application Studio</mark>. I’m also familiar with <mark>Git</mark> and <mark>VS Code</mark>. 
 
-  Apart from project development, I support business as usual—analyzing errors, fixing bugs, and designing business solutions. In my projects, I’ve highlighted the most significant ones—those where development took longer than two months.
+  Apart from project development, I support business as usual—analyzing errors, fixing bugs, and designing new business solutions. 
+  I have successfully delivered multiple projects for European and Asian customers.
+  In my projects section, I’ve highlighted the most significant ones—those where development took longer than two months.
 
 content:
   - title: Projects # Title for the section
