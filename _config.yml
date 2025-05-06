@@ -126,6 +126,13 @@ content:
           For data consumption I builded <mark>oData</mark> services. Backend logic was supported by <mark>ABAP</mark> application classes where I handled validations, application data storage and HR infotype update. All applications were
           registered into <mark>Fiori</mark> Launchpad.
       - layout: left
+        title: SAP Web Dynpro Migration
+        sub_title: Home Credit, China
+        caption: Duration - 1 year (2022)
+        description: | # this will include new lines to allow paragraphs
+          During the migration of Web Dynpro applications into <mark>Fiori</mark> Launchpad I developed 8 applications from the scratch using custom <mark>SAPUI5</mark> SDK, <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark> . For each application
+          I had to enhance approval tasks in workflow templates to align with <mark>My Inbox</mark> application. For every application I builded <mark>oData</mark> service for CRUD operations.
+      - layout: left
         title: My Inbox SD,PP Workflows
         sub_title: Heidelberg Materials, Germany
         caption: Duration - 8 months (2021-2022)
