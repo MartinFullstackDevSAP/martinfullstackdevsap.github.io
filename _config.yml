@@ -185,38 +185,38 @@ content:
         link: https://www.embedit.com
         sub_title: Senior SAP Software Engineer
         caption: February 2019 - Present
-        description: | # this will include new lines to allow paragraphs
-            As SAP software engineer I design and develop business solutions for end customers. The biggest projects included development in <mark>ABAP</mark> <mark>SAPUI5</mark> and <mark>SAP Business Workflow</mark> .
+        description: | # this will include new lines to allow paragraphs           
+          As an SAP software engineer, I design and develop business solutions for end customers. My largest projects have included development in <mark>ABAP</mark>, <mark>SAPUI5</mark>, and <mark>SAP Business Workflow</mark>.
       - layout: left
         title: Heidelberg Materials, Germany
         link: https://www.heidelbergmaterials.com
         sub_title: Senior SAP Software Engineer
         caption: September 2021 - Present
-        description: | # this will include new lines to allow paragraphs
-           I deliver software solutions for german customer. Mostly in are of <mark>SAP Business Workflow</mark> , custom <mark>ABAP</mark> business logic and <mark>Fiori</mark> applications development.
+        description: | # this will include new lines to allow paragraphs           
+          I deliver software solutions for a German customer, primarily in the areas of <mark>SAP Business Workflow</mark>, custom <mark>ABAP</mark> business logic, and <mark>Fiori</mark> application development.
       - layout: left
         title: DHL Information Services s.r.o., Czech Republic
         link: https://group.dhl.com/
         sub_title: SAP Software Engineer
         caption: February 2018 - January 2019
-        description: | # this will include new lines to allow paragraphs
-           As full-time employee I supported business as usual. Fixing of issues, enhancements of existing solutions and development of new applications using <mark>SAPUI5</mark> SDK and <mark>ABAP</mark> . I had
-           chance to travel to Kuala Lumpur, Malaysia to train developers in area of <mark>Fiori</mark> and <mark>SAPUI5</mark> .    
+        description: | # this will include new lines to allow paragraphs           
+           As a full-time employee, I supported business operations by fixing issues, enhancing existing solutions, and developing new applications using <mark>SAPUI5</mark> SDK and <mark>ABAP</mark>.           
+           I had the opportunity to travel to Kuala Lumpur, Malaysia, to train developers in the areas of <mark>Fiori</mark> and <mark>SAPUI5</mark>.              
       - layout: left
         title: CONSIT s.r.o., Czech Republic
         link: https://www.consit.cz
         sub_title: SAP Fiori FrontEnd Developer
         caption: June 2016 - January 2018
         description: | # this will include new lines to allow paragraphs
-           As full-time employee I designed and developed internal HR applications for company employees. I worked with <mark>SAPUI5</mark> SDK  <mark>JavaScript</mark> and <mark>ABAP</mark> . I developed company website.
-           In this company I had opportunity to meet SAP for the first time.
+           As a full-time employee, I designed and developed internal HR applications for company employees. I worked with <mark>SAPUI5</mark> SDK, <mark>JavaScript</mark>, and <mark>ABAP</mark>. 
+           I also developed the company website. In this company, I had the opportunity to work with SAP for the first time.
       - layout: left
         title: Freelance Webdeveloper
         sub_title: Freelance Webdeveloper
         caption: January 2016 - May 2016
         description: | # this will include new lines to allow paragraphs
-           I started my career as webmaster and webdeveloper. I got familiar with <mark>HTML</mark> <mark>JavaScript</mark> and <mark>Adobe Photoshop</mark> . Apart from small tasks for multiple websites 
-           during this time I developed my very first website www.strednyliptov.sk .       
+           I started my career as a webmaster and webdeveloper. I became familiar with <mark>HTML</mark> <mark>JavaScript</mark> and <mark>Adobe Photoshop</mark> . 
+           During this time, I worked on small tasks for multiple websites and developed my very first website, https://www.strednyliptov.sk      
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -229,8 +229,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-           I was born in Slovakia but I moved to Czechia capital Prague for new work opportunities. 
-           I love to spend with my family. I am casual PS5 / PC gamer. I love to read books and improve myself in every possible way.
+           I was born in Slovakia but moved to Prague, the capital of Czechia, for new work opportunities. I love spending time with my family. I am a casual PS5 and PC gamer. I enjoy reading books and continuously improving myself in every possible way.
 
 # Footer
 footer_show_references: true
