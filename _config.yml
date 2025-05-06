@@ -142,6 +142,13 @@ content:
           For every workflow I created template with approval tasks for My Inbox. In the end I developed framework to dynamically replace UI approval screen in <mark>My Inbox</mark> with standard <mark>Fiori</mark> extensibility 
           tools in <mark>SAP Business Application Studio</mark> . UI applications were stored in <mark>Git</mark> repositories.
       - layout: left
+        title: Leave Request
+        sub_title: Home Credit, China
+        caption: Duration - 4 months (2021)
+        description: | # this will include new lines to allow paragraphs
+          Because of legal blockers we could not use standard SAP Leave Reuqest application in China. I had to develop custom master-detail <mark>Fiori</mark> application using <mark>SAPUI5</mark> SDK and with own backend <mark>ABAP</mark> backend logic
+          to validate data and update HR infotypes. I builded simple <mark>SAP Business Workflow</mark> and integrated it into <mark>My Inbox</mark> standard <mark>Fiori</mark> application.
+      - layout: left
         title: My Travel Request V2
         sub_title: Home Credit, Philippines
         caption: Duration - 5 months (2020)
