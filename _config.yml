@@ -168,15 +168,15 @@ content:
         title: Trip Logbook
         sub_title: DHL Information Services s.r.o., Czech Republic
         caption: Duration - 4 months (2018)
-        description: | # this will include new lines to allow paragraphs
-          As a fulltime employee I developed custom master-detail <mark>Fiori</mark> application.The purpose of application was to manage company car bookings and track journey details. Application UI layout was changing dynamically based on customizing in SAP.
-          Application was assigned to users in <mark>Fiori</mark> Launchpad.
+        description: | # this will include new lines to allow paragraphs          
+          As a full-time employee, I developed a custom master-detail <mark>Fiori</mark> application. The purpose of the application was to manage company car bookings and track journey details. The application UI layout was dynamically changing based on customization in SAP.
+          The application was assigned to users in the <mark>Fiori</mark> Launchpad.
       - layout: left
         title: Company Website www.consit.cz
         sub_title: CONSIT s.r.o., Czech Republic
         caption: Duration - 4 months (2018)
         description: | # this will include new lines to allow paragraphs
-          As a fulltime employee I developed company website using <mark>HTML</mark> <mark>JavaScript</mark> with content CMS integration of https://www.couchcms.com/ .
+          As a full-time employee, I developed the company website using <mark>HTML</mark> and <mark>JavaScript</mark> with content CMS integration from https://www.couchcms.com .
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
