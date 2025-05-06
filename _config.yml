@@ -128,12 +128,41 @@ content:
       - layout: left
         title: My Inbox SD,PP Workflows
         sub_title: Heidelberg Materials, Germany
-        caption: Duration - 8 months (2022-2023)
+        caption: Duration - 8 months (2021-2022)
         description: | # this will include new lines to allow paragraphs
           I developed cluster tables for customizing of conditions when <mark>SAP Business Workflow</mark> for Contract (SD), Bill of Materials (PP), Out of Tolerance (PP) should be triggered. I builded interfaces, <mark>ABAP</mark> application classes
           to handle triggering of workflow. I created custom BOR object for Contract (SD) with standard BOR inheritance and extended with functionality. For Bill of Materials (PP) and Out of Tolerance (PP) I created class based workflows.
           For every workflow I created template with approval tasks for My Inbox. In the end I developed framework to dynamically replace UI approval screen in <mark>My Inbox</mark> with standard <mark>Fiori</mark> extensibility 
           tools in <mark>SAP Business Application Studio</mark> . UI applications were stored in <mark>Git</mark> repositories.
+      - layout: left
+        title: My Travel Request V2
+        sub_title: Home Credit, Philippines
+        caption: Duration - 5 months (2020)
+        description: | # this will include new lines to allow paragraphs
+          I participated on development of <mark>SAP Business Workflow</mark> for <mark>Fiori</mark> applications Travel Request V2 and Travel Expense V2. I builded custom BOR objects with inheritance to standard object and designed and developed workflow templates.
+          Workflow template was robust because it consisted of 9 levels of approvers based on multiple conditions like cost center, budget and other parameters. Workflow template logic was supported by application <mark>ABAP</mark> classes. In UI part I had to extend
+          standard <mark>Fiori</mark> applications using standard extensibility concept in <mark>SAP WebIDE</mark>. For workflow approval I created custom UI approval screens in <mark>My Inbox</mark>. In the end I created user roles, assigned authorizations and registered
+          applications into <mark>Fiori</mark> Launchpad.
+      - layout: left
+        title: USSPA Service Orders Planner
+        sub_title: Versino CZ, s.r.o., Czech Republic
+        caption: Duration - 4 months (2020)
+        description: | # this will include new lines to allow paragraphs
+          I designed and developed custom <mark>SAPUI5</mark> application for planning of services. Application consisted of interactive map with tags, list of orders and calendar. Apart from <mark>SAPUI5</mark> SDK I used custom <mark>JavaScript</mark> to meet
+          customer requirements.
+      - layout: left
+        title: Trip Logbook
+        sub_title: DHL Information Services s.r.o., Czech Republic
+        caption: Duration - 4 months (2019)
+        description: | # this will include new lines to allow paragraphs
+          As a fulltime employee I developed custom master-detail <mark>Fiori</mark> application.The purpose of application was to manage company car bookings and track journey details. Application UI layout was changing dynamically based on customizing in SAP.
+          Application was assigned to users in <mark>Fiori</mark> Launchpad.
+      - layout: left
+        title: Company Website www.consit.cz
+        sub_title: CONSIT s.r.o., Czech Republic
+        caption: Duration - 4 months (2018)
+        description: | # this will include new lines to allow paragraphs
+          As a fulltime employee I developed company website using <mark>HTML</mark> <mark>JavaScript</mark> with content CMS integration of https://www.couchcms.com/ .
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
