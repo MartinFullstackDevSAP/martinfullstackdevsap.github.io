@@ -162,8 +162,7 @@ content:
         sub_title: Versino CZ, s.r.o., Czech Republic
         caption: Duration - 4 months (2020)
         description: | # this will include new lines to allow paragraphs
-          I designed and developed custom <mark>SAPUI5</mark> application for planning of services. Application consisted of interactive map with tags, list of orders and calendar. Apart from <mark>SAPUI5</mark> SDK I used custom <mark>JavaScript</mark> to meet
-          customer requirements.
+          I designed and developed a custom <mark>SAPUI5</mark> application for planning services. The application consisted of an interactive map with tags, a list of orders, and a calendar. Apart from the <mark>SAPUI5</mark> SDK, I used custom <mark>JavaScript</mark> to meet customer requirements.
       - layout: left
         title: Trip Logbook
         sub_title: DHL Information Services s.r.o., Czech Republic
