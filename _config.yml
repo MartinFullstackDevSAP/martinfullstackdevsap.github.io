@@ -221,7 +221,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Žilina in Žilina
+        title: University of Žilina, Slovakia
         caption: 2010 - 2015
         sub_title: Services in IT
         description: | # this will include new lines to allow paragraphs
@@ -229,6 +229,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+           I was born in Slovakia but I moved to Czechia capital Prague for new work opportunities. 
            I love to spend with my family. I am casual PS5 / PC gamer. I love to read books and improve myself in every possible way.
 
 # Footer
