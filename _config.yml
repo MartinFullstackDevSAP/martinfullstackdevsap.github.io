@@ -98,6 +98,23 @@ content:
         description: | # this will include new lines to allow paragraphs
           I participated on integration of third-party <mark>REST</mark> API into SAP. The project consisted of application <mark>ABAP</mark> classes with logic to create,
           update and delete of invoices, purchases orders, good receipts and travel receipts. Application classes handled inbound and outbound communication between SAP and third-party external system Bizzi.
+      - layout: left
+        title: Payment Request Invoices
+        sub_title: Home Credit, Philippines
+        caption: Duration - 4 months (2023)
+        description: | # this will include new lines to allow paragraphs
+          I designed and developed two custom <mark>SAPUI5</mark> applications to create invoices from payment requests. First application was to create payment request from scratch where used master-detail <mark>Fiori</mark> template. Second application was
+          builded for administrators where I used worklist <mark>Fiori</mark> template with detail navigation. With requested data I created <mark>ABAP</mark> application class to handle data validations, data storage and invoice creation. As requested data had to
+          be approved I created <mark>SAP Business Workflow</mark> and integrated custom <mark>My Inbox</mark> UI approval screen.
+      - layout: left
+        title: My Inbox SD,PP Workflows
+        sub_title: Heidelberg Materials, Germany
+        caption: Duration - 8 months (2022-2023)
+        description: | # this will include new lines to allow paragraphs
+          I designed cluster tables for customizing of conditions when <mark>SAP Business Workflow</mark> for Contract (SD), Bill of Materials (PP), Out of Tolerance (PP) should be triggered. I builded interfaces, <mark>ABAP</mark> application classes
+          to handle triggering of workflow. I created custom BOR object for Contract (SD) with standard BOR inheritance and extended with functionality. For Bill of Materials (PP) and Out of Tolerance (PP) I created class based workflows.
+          For every workflow I created template with approval tasks for My Inbox. In the end I developed framework to dynamically replace UI approval screen in <mark>My Inbox</mark> with standard <mark>Fiori</mark> extensibility 
+          tools in <mark>SAP Business Application Studio</mark> . UI applications were stored in <mark>Git</mark> repository.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
