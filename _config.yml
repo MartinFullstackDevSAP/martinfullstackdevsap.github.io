@@ -77,9 +77,10 @@ content:
         sub_title: Home Credit, Kazakhstan
         caption: Duration - 2 months (2025)
         description: | # this will include new lines to allow paragraphs
-          I designed and developed custom <mark>SAP Business Workflow</mark> for Purchase Order and Purchase Requisition. Workflow templates were based on custom BOR object with inheritance of standard.
+          I designed and developed custom <mark>SAP Business Workflow</mark> for Purchase Order and Purchase Requisition with dynamic approvers selections.
+          Workflow templates were based on custom BOR object with inheritance of standard object.
           I modified standard transactions screens with user exits where I defined and created new custom fields with prepopulation logic. 
-          In the end I integrated these two workflows inside <mark>My Inbox</mark> and handled user roles and authorizations.
+          In the end I integrated these two workflows inside <mark>My Inbox</mark> , created overview GUI report and handled user roles and authorizations.
       - layout: left
         title: SAP e-shop TETA
         sub_title: p.k.Solvent s.r.o., Czech Republic
@@ -87,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I developed a complete backend solution for e-shop www.teta.cz . For communication between e-shop and SAP I builded Swagger <mark>REST</mark> API to provide and consume data.
           With the retrieved data in <mark>ABAP</mark> I developed core logic to create purchase orders, invoices, deliveries, reservations, stocks, WM movements and other related objects.
-          I developed <mark>SAPUI5</mark> custom applications for warehouse stock administration registered them into <mark>Fiori</mark> Launchpad.
+          I developed <mark>SAPUI5</mark> custom applications for warehouse stock administration registered them into <mark>Fiori</mark> Launchpad with own <mark>oData</mark> services.
           A barcode scanner application, which ran on mobile was part of development to support warehouse workers in packaging.
           In the end I integrated third-party <mark>REST</mark> API Balikomat to automatically create package labels, print labels, and register of packages for delivery service providers.
       - layout: left
@@ -112,17 +113,27 @@ content:
         caption: Duration - 4 months (2023)
         description: | # this will include new lines to allow paragraphs
           I designed and developed two custom <mark>SAPUI5</mark> applications to create invoices from payment requests. First application was to create payment request from scratch where used master-detail <mark>Fiori</mark> template. Second application was
-          builded for administrators where I used worklist <mark>Fiori</mark> template with detail navigation. With requested data I created <mark>ABAP</mark> application class to handle data validations, data storage and invoice creation. As requested data had to
+          builded for administrators where I used worklist <mark>Fiori</mark> template with detail navigation. Third application was based on worklist <mark>Fiori</mark> template. For all applications I builded <mark>oData</mark> services.
+          With requested data I created <mark>ABAP</mark> application class to handle data validations, data storage and invoice creation. As requested data had to
           be approved I created <mark>SAP Business Workflow</mark> and integrated custom <mark>My Inbox</mark> UI approval screen.
+      - layout: left
+        title: Training Management
+        sub_title: Home Credit, Indonesia
+        caption: Duration - 4 months (2023)
+        description: | # this will include new lines to allow paragraphs
+          I designed and developed three custom <mark>SAPUI5</mark> applications to handle user training registration, administration and reporting. Application for registration was created using <mark>Fiori</mark> master-detail template. 
+          Application for administrators to update training lists, participants results and indicators was created by combination of custom <mark>SAPUI5</mark> SDK and third-party library jspreadsheet https://bossanova.uk/jspreadsheet/ . 
+          For data consumption I builded <mark>oData</mark> services. Backend logic was supported by <mark>ABAP</mark> application classes where I handled validations, application data storage and HR infotype update. All applications were
+          registered into <mark>Fiori</mark> Launchpad.
       - layout: left
         title: My Inbox SD,PP Workflows
         sub_title: Heidelberg Materials, Germany
         caption: Duration - 8 months (2022-2023)
         description: | # this will include new lines to allow paragraphs
-          I designed cluster tables for customizing of conditions when <mark>SAP Business Workflow</mark> for Contract (SD), Bill of Materials (PP), Out of Tolerance (PP) should be triggered. I builded interfaces, <mark>ABAP</mark> application classes
+          I developed cluster tables for customizing of conditions when <mark>SAP Business Workflow</mark> for Contract (SD), Bill of Materials (PP), Out of Tolerance (PP) should be triggered. I builded interfaces, <mark>ABAP</mark> application classes
           to handle triggering of workflow. I created custom BOR object for Contract (SD) with standard BOR inheritance and extended with functionality. For Bill of Materials (PP) and Out of Tolerance (PP) I created class based workflows.
           For every workflow I created template with approval tasks for My Inbox. In the end I developed framework to dynamically replace UI approval screen in <mark>My Inbox</mark> with standard <mark>Fiori</mark> extensibility 
-          tools in <mark>SAP Business Application Studio</mark> . UI applications were stored in <mark>Git</mark> repository.
+          tools in <mark>SAP Business Application Studio</mark> . UI applications were stored in <mark>Git</mark> repositories.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
