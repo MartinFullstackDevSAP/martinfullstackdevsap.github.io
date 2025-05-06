@@ -70,8 +70,16 @@ content:
         caption: Duration - 1 year (2024-2025)
         description: | # this will include new lines to allow paragraphs
           I participated on development of Tax Portal as technical team leader. I designed and developed UI of final solution using custom <mark>SAPUI5</mark> SDK.
-          I developed core <mark>ABAP</mark> application classes,  tax calculations and logic in <mark>BW</mark>. I designed and builded <mark>oData</mark> service for data consumption.
-          I used <mark>Git</mark> for collaboration between team members and IDE <mark>SAP Business Application Studio</mark> for UI development.
+          I developed core <mark>ABAP</mark> application classes,  tax calculations and logic in <mark>BW</mark>. I designed and builded <mark>oData</mark> services for data consumption.
+          I used <mark>Git</mark> for collaboration between team members and <mark>SAP Business Application Studio</mark> for UI development.
+      - layout: left
+        title: Purchase Order, Purchase Requistion
+        sub_title: Home Credit, Kazakhstan
+        caption: Duration - 2 months (2025)
+        description: | # this will include new lines to allow paragraphs
+          I designed and developed custom <mark>SAP Business Workflow</mark> for Purchase Order and Purchase Requisition. Workflow templates were based on custom BOR object with inheritance of standard.
+          I modified standard transactions screens with user exits where I defined and created new custom fields with prepopulation logic. 
+          In the end I integrated these two workflows inside <mark>My Inbox</mark> and handled user roles and authorizations.
       - layout: left
         title: SAP e-shop TETA
         sub_title: p.k.Solvent s.r.o., Czech Republic
