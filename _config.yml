@@ -238,7 +238,7 @@ content:
         caption: 2010 - 2015
         sub_title: Services in IT
         description: | # this will include new lines to allow paragraphs
-           I successfully graduated with a degree and wrote a thesis on securing web forms in <mark>PHP</mark> .
+           I successfully graduated with a degree and wrote a diploma thesis on securing web forms in <mark>PHP</mark> .
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
