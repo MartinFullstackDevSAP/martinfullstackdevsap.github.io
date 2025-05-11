@@ -33,7 +33,7 @@ linkedin_username: martin-k-881394119
 # Additional icon links
 additional_links:
   - title: another link
-    icon: fa-regular fa-file-pdf
+    icon: fa-file-pdf
     url: https://martinfullstackdevsap.github.io/cv/martin_mikus_cv.pdf
 
 # Google Analytics and Tag Manager
