@@ -10,7 +10,7 @@ name: Martin Mikus
 title: Senior SAP Full Stack Developer
 email: martinmikus2@protonmail.com
 phone: +420 601 531 976
-website: "[Download PDF](https://short-link.me/downloadpdf)"
+#website: "[Download PDF](https://short-link.me/downloadpdf)"
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -33,7 +33,7 @@ linkedin_username: martin-k-881394119
 # Additional icon links
 additional_links:
   - title: PDF Resume
-    icon: file-pdf-o
+    icon: fa file-pdf-o
     url: https://martinfullstackdevsap.github.io/cv/martin_mikus_cv.pdf
 
 # Google Analytics and Tag Manager
