@@ -10,10 +10,11 @@ name: Martin Mikus
 title: Senior SAP Full Stack Developer
 email: martinmikus2@protonmail.com
 phone: +420 601 531 976
-#website: www.github.com/sproogen/resume-theme
+location: Prague, Czech Republic
+#website: 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -32,9 +33,9 @@ linkedin_username: martin-k-881394119
 
 # Additional icon links
 additional_links:
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  - title: another link
+    icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+    url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
