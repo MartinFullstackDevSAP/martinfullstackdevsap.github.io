@@ -75,7 +75,7 @@ content:
           I designed and built <mark>oData</mark> services for data consumption. 
           I used <mark>Git</mark> for collaboration between team members and <mark>SAP Business Application Studio</mark> for UI development.
       - layout: left
-        title: Purchase Order, Purchase Requistion
+        title: Purchase Order, Purchase Requisition
         sub_title: Home Credit, Kazakhstan
         caption: Duration - 2 months (2025)
         description: | # this will include new lines to allow paragraphs
@@ -212,7 +212,7 @@ content:
       - layout: left
         title: DHL Information Services s.r.o., Czech Republic
         link: https://group.dhl.com/
-        sub_title: SAP Software Engineer
+        sub_title: SAP Software Engineer L3
         caption: February 2018 - January 2019
         description: | # this will include new lines to allow paragraphs           
            As a full-time employee, I supported business operations by fixing issues, enhancing existing solutions, and developing new applications using <mark>SAPUI5</mark> SDK and <mark>ABAP</mark>.           
@@ -226,11 +226,11 @@ content:
            As a full-time employee, I designed and developed internal HR applications for company employees. I worked with <mark>SAPUI5</mark> SDK, <mark>JavaScript</mark>, and <mark>ABAP</mark>. 
            I also developed the company website. In this company, I had the opportunity to work with SAP for the first time.
       - layout: left
-        title: Freelance Webdeveloper
-        sub_title: Freelance Webdeveloper
+        title: Freelance
+        sub_title: Web developer
         caption: January 2016 - May 2016
         description: | # this will include new lines to allow paragraphs
-           I started my career as a webmaster and webdeveloper. I became familiar with <mark>HTML</mark> <mark>JavaScript</mark> and <mark>Adobe Photoshop</mark> . 
+           I started my career as a webmaster and web developer. I became familiar with <mark>HTML</mark> <mark>JavaScript</mark> and <mark>Adobe Photoshop</mark> . 
            During this time, I worked on small tasks for multiple websites and developed my very first website, https://www.strednyliptov.sk      
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
