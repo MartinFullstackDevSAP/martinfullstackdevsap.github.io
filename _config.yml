@@ -10,7 +10,6 @@ name: Martin Mikus
 title: Senior SAP Full Stack Developer
 email: martinmikus2@protonmail.com
 phone: +420 601 531 976
-location: Prague, Czech Republic
 #website: 
 
 # Dark Mode (true/false/never)
@@ -34,8 +33,8 @@ linkedin_username: martin-k-881394119
 # Additional icon links
 additional_links:
   - title: another link
-    icon: fab fa-twitter
-    url: Link url (eg. https://google.com)
+    icon: fa-file-pdf
+    url: https://martinfullstackdevsap.github.io/cv/martin_mikus_cv.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
