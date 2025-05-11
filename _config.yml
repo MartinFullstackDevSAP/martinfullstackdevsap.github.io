@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Mikus
-title: Senior SAP Full-Stack Developer
+title: Senior SAP Full Stack Developer
 email: martinmikus2@protonmail.com
 phone: +420 601 531 976
 #website: www.github.com/sproogen/resume-theme
@@ -47,7 +47,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Welcome to my professional work profile.
-  My name is Martin, and I am a Full-Stack SAP Developer. I work daily with <mark>ABAP</mark> <mark>SAPUI5</mark> <mark>Fiori</mark> <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>. 
+  My name is Martin, and I am a Full Stack SAP Developer. I work daily with <mark>ABAP</mark> <mark>SAPUI5</mark> <mark>Fiori</mark> <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>. 
   I am proficient in building of <mark>oData</mark> services <mark>REST</mark> APIs <mark>CDS</mark> views and <mark>SOAP</mark> services.
   
   Mostly I work in <mark>SAP S/4HANA</mark> environment but also have experience with older SAP ERP releases.
@@ -200,6 +200,7 @@ content:
         caption: February 2019 - Present
         description: | # this will include new lines to allow paragraphs           
           As an SAP software engineer, I design and develop business solutions for end customers. My largest projects have included development in <mark>ABAP</mark>, <mark>SAPUI5</mark>, and <mark>SAP Business Workflow</mark>.
+          Apart from working on projects, I support business-as-usual operations by analyzing issues, extending core solutions, and implementing enhancements.
       - layout: left
         title: Heidelberg Materials, Germany
         link: https://www.heidelbergmaterials.com
@@ -207,6 +208,7 @@ content:
         caption: September 2021 - Present
         description: | # this will include new lines to allow paragraphs           
           I deliver software solutions for a German customer, primarily in the areas of <mark>SAP Business Workflow</mark>, custom <mark>ABAP</mark> business logic, and <mark>Fiori</mark> application development.
+          I participated in the transformation from the old ERP system to S4 HANA. Apart from developing new solutions, I support my projects, extend solutions, and analyze issues.
       - layout: left
         title: DHL Information Services s.r.o., Czech Republic
         link: https://group.dhl.com/
