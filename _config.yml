@@ -80,8 +80,8 @@ content:
         caption: Duration - 2 months (2025)
         description: | # this will include new lines to allow paragraphs
           The goal of this project was to replace the SAP HCM HR module with the third-party Darwinbox HR system. 
-          I designed and implemented the integration between Darwinbox and SAP using REST APIs and updated multiple HR workflow templates. 
-          To fulfill the business requirements, I worked with CDS views, ABAP, Swagger-based REST APIs, and SAP Workflows.
+          I designed and implemented the integration between Darwinbox and SAP using <mark>REST</mark> APIs and updated multiple HR workflow templates. 
+          To fulfill the business requirements, I worked with <mark>CDS</mark> views, <mark>ABAP</mark>, Swagger <mark>REST</mark> APIs, and <mark>SAP Business Workflows</mark>.
       - layout: left
         title: Purchase Order, Purchase Requisition
         sub_title: Home Credit, Kazakhstan
