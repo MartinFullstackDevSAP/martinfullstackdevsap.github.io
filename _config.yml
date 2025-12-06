@@ -75,6 +75,14 @@ content:
           I designed and built <mark>oData</mark> services for data consumption. 
           I used <mark>Git</mark> for collaboration between team members and <mark>SAP Business Application Studio</mark> for UI development.
       - layout: left
+        title: SAP–Darwinbox Integration Project
+        sub_title: Home Credit, Philippines
+        caption: Duration - 2 months (2025)
+        description: | # this will include new lines to allow paragraphs
+          The goal of this project was to replace the SAP HCM HR module with the third-party Darwinbox HR system. 
+          I designed and implemented the integration between Darwinbox and SAP using REST APIs and updated multiple HR workflow templates. 
+          To fulfill the business requirements, I worked with CDS views, ABAP, Swagger-based REST APIs, and SAP Workflows.
+      - layout: left
         title: Purchase Order, Purchase Requisition
         sub_title: Home Credit, Kazakhstan
         caption: Duration - 2 months (2025)
