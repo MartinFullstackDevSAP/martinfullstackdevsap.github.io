@@ -65,9 +65,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Pricing conditions and payment terms
+        sub_title: Heidelberg Materials, Italy
+        caption: Duration - 6 months (2025-2026)
+        description: | # this will include new lines to allow paragraphs
+          I designed and developed a Fiori Worklist application utilizing annotations and metadata to manage changes for customer pricing conditions and payment terms.
+          I designed and built <mark>oData</mark> services for data consumption and integrated <mark>ABAP</mark> core logic to handle user inputs and requests. 
+          The project also featured two <mark>SAP Business Workflows</mark> with custom logic to manage changes to standard SAP objects. 
+          For the approval process, I built custom <mark>My Inbox</mark> approval screens and managed the necessary technical customizing.        
+      - layout: left
         title: Magellan Tax Portal
         sub_title: Heidelberg Materials, Germany
-        caption: Duration - 1 year (2024-2025)
+        caption: Duration - 2 years (2024-2026)
         description: | # this will include new lines to allow paragraphs
           I participated in the development of the Tax Portal as a technical team leader. 
           I designed and developed the UI of the final solution using the custom <mark>SAPUI5</mark> SDK. 
