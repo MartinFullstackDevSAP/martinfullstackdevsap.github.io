@@ -48,7 +48,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Welcome to my professional work profile.
   My name is Martin, and I am a Full Stack SAP Developer. I work daily with <mark>ABAP</mark> <mark>SAPUI5</mark> <mark>Fiori</mark> <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>. 
-  I am proficient in building of <mark>oData</mark> services <mark>REST</mark> APIs <mark>CDS</mark> views and <mark>SOAP</mark> services.
+  I am proficient in building of <mark>OData</mark> services <mark>REST</mark> APIs <mark>CDS</mark> views and <mark>SOAP</mark> services.
   
   Mostly I work in <mark>SAP S/4HANA</mark> environment but also have experience with older SAP ERP releases.
   Primarily in modules <mark>FI-CO</mark>, <mark>HR/HCM</mark>, <mark>SD</mark>, <mark>MM</mark>, and <mark>BW</mark>.  
@@ -65,12 +65,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Training Registration - RAP
+        sub_title: Home Credit, Vietnam
+        caption: Duration - 3 months (2026)
+        description: | # this will include new lines to allow paragraphs
+          I designed and developed my very first application using <mark>RAP</mark> (ABAP RESTful Application Programming Model) alongside <mark>SAP Business Workflows</mark> with an integrated view in <mark>My Inbox</mark>. 
+          The behavior definition and access control objects were created to display role-specific content within the application for administrators, requestors, and approvers. 
+          The application supports attachments, sends emails based on XML transformations, and writes training data into a custom HR infotype.
+      - layout: left
+        title: Workflow Overview Application
+        sub_title: Heidelberg Materials, Global
+        caption: Duration - 2 months (2026)
+        description: | # this will include new lines to allow paragraphs
+          To monitor MM, SD, and FI workflows, I created <mark>CDS</mark> views from standard workflow tables to collect the data. Using annotations, I created a simple Fiori Worklist Detail application using <mark>OData</mark> V4 as a data source. 
+          I registered the application in Fiori Launchpad and assigned authorizations to users.
+      - layout: left
         title: Pricing conditions and payment terms
         sub_title: Heidelberg Materials, Italy
         caption: Duration - 6 months (2025-2026)
         description: | # this will include new lines to allow paragraphs
           I designed and developed a Fiori Worklist application utilizing annotations and metadata to manage changes for customer pricing conditions and payment terms.
-          I designed and built <mark>oData</mark> services for data consumption and integrated <mark>ABAP</mark> core logic to handle user inputs and requests. 
+          I designed and built <mark>OData</mark> services for data consumption and integrated <mark>ABAP</mark> core logic to handle user inputs and requests. 
           The project also featured two <mark>SAP Business Workflows</mark> with custom logic to manage changes to standard SAP objects. 
           For the approval process, I built custom <mark>My Inbox</mark> approval screens and managed the necessary technical customizing.        
       - layout: left
@@ -81,7 +96,7 @@ content:
           I participated in the development of the Tax Portal as a technical team leader. 
           I designed and developed the UI of the final solution using the custom <mark>SAPUI5</mark> SDK. 
           I developed core <mark>ABAP</mark> application classes, tax calculations, and logic in <mark>BW</mark>. 
-          I designed and built <mark>oData</mark> services for data consumption. 
+          I designed and built <mark>OData</mark> services for data consumption. 
           I used <mark>Git</mark> for collaboration between team members and <mark>SAP Business Application Studio</mark> for UI development.
       - layout: left
         title: SAP–Darwinbox Integration Project
@@ -108,7 +123,7 @@ content:
           I developed a complete backend solution for the e-shop www.teta.cz .
           For communication between the e-shop and SAP, I built a Swagger <mark>REST</mark> API to provide and consume data. 
           With the retrieved data in <mark>ABAP</mark>, I developed core logic to create purchase orders, invoices, deliveries, reservations, stocks, WM movements, and other related objects. 
-          I developed <mark>SAPUI5</mark> custom applications for warehouse stock administration and registered them into the <mark>Fiori</mark> Launchpad with my own <mark>oData</mark> services. 
+          I developed <mark>SAPUI5</mark> custom applications for warehouse stock administration and registered them into the <mark>Fiori</mark> Launchpad with my own <mark>OData</mark> services. 
           A barcode scanner application, which ran on mobile, was part of the development to support warehouse workers in packaging. 
           In the end, I integrated the third-party <mark>REST</mark> API Balikomat to automatically create package labels, print labels, and register packages for delivery service providers.
       - layout: left
@@ -117,7 +132,7 @@ content:
         caption: Duration - 3 months (2024)
         description: | # this will include new lines to allow paragraphs
           I took care of the development of custom Asset Management <mark>SAPUI5</mark> applications for the administration of company assets. 
-          I developed <mark>ABAP</mark> application classes that provided data to custom <mark>oData</mark> services. 
+          I developed <mark>ABAP</mark> application classes that provided data to custom <mark>OData</mark> services. 
           To handle asset transfer approval between employees, I designed and developed a custom class-based <mark>SAP Business Workflow</mark> and developed custom My Inbox approval screens. 
           At the end of the project, I created user roles with relevant authorizations and registered the application into the <mark>Fiori</mark> Launchpad.
       - layout: left
@@ -137,7 +152,7 @@ content:
           The first application was to create payment requests from scratch using the master-detail <mark>Fiori</mark> template. 
           The second application was built for administrators using the worklist <mark>Fiori</mark> template with detail navigation. 
           The third application was based on the worklist <mark>Fiori</mark> template. 
-          For all applications, I built <mark>oData</mark> services. 
+          For all applications, I built <mark>OData</mark> services. 
           With the requested data, I created an <mark>ABAP</mark> application class to handle data validations, data storage, and invoice creation. 
           As the requested data had to be approved, I created an <mark>SAP Business Workflow</mark> and integrated a custom <mark>My Inbox</mark> UI approval screen.
       - layout: left
@@ -148,7 +163,7 @@ content:
           I designed and developed three custom <mark>SAPUI5</mark> applications to handle user training registration, administration, and reporting. 
           The application for registration was created using the <mark>Fiori</mark> master-detail template. 
           The application for administrators to update training lists, participants' results, and indicators was created by combining the custom <mark>SAPUI5</mark> SDK and the third-party library jspreadsheet (https://bossanova.uk/jspreadsheet/). 
-          For data consumption, I built <mark>oData</mark> services. 
+          For data consumption, I built <mark>OData</mark> services. 
           The backend logic was supported by <mark>ABAP</mark> application classes where I handled validations, application data storage, and HR infotype updates. 
           All applications were registered into the <mark>Fiori</mark> Launchpad.
       - layout: left
@@ -158,7 +173,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During the migration of Web Dynpro applications into <mark>Fiori</mark> Launchpad, I developed 8 applications from scratch using custom <mark>SAPUI5</mark> SDK, <mark>JavaScript</mark>, 
           and <mark>SAP Business Workflow</mark>. For each application, I had to enhance approval tasks in workflow templates to align with the <mark>My Inbox</mark> application. 
-          For every application, I built <mark>oData</mark> services for CRUD operations.
+          For every application, I built <mark>OData</mark> services for CRUD operations.
       - layout: left
         title: My Inbox SD,PP Workflows
         sub_title: Heidelberg Materials, Germany
