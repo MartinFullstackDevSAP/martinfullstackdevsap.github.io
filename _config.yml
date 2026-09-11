@@ -48,7 +48,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Welcome to my professional work profile.
   My name is Martin, and I am a Full Stack SAP Developer. I work daily with <mark>ABAP</mark> <mark>SAPUI5</mark> <mark>Fiori</mark> <mark>JavaScript</mark> and <mark>SAP Business Workflow</mark>. 
-  I am proficient in building of <mark>OData</mark> services <mark>REST</mark> APIs <mark>CDS</mark> views and <mark>SOAP</mark> services.
+  I am proficient in building of <mark>OData</mark> services <mark>REST</mark> APIs <mark>CDS</mark> views and <mark>SOAP</mark> services. I have experience with <mark>RAP</mark> (ABAP RESTful Application Programming Model).
   
   Mostly I work in <mark>SAP S/4HANA</mark> environment but also have experience with older SAP ERP releases.
   Primarily in modules <mark>FI-CO</mark>, <mark>HR/HCM</mark>, <mark>SD</mark>, <mark>MM</mark>, and <mark>BW</mark>.  
