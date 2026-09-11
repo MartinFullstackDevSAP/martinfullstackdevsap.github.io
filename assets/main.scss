@@ -21,6 +21,9 @@
 
 .about-heading {
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .about-heading .theme-toggle {
@@ -29,6 +32,12 @@
   right: 0;
   margin-top: 0;
   transform: translateY(-50%);
+}
+
+@media (min-width: 768px) {
+  .header-left {
+    padding-bottom: 3.8rem;
+  }
 }
 
 .theme-toggle::before {
