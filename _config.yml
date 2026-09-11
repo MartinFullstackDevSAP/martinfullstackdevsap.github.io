@@ -13,7 +13,7 @@ phone: +420 601 531 976
 #website: www.xxx.com
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 #twitter_username: facespics
