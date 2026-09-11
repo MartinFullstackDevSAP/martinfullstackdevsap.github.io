@@ -5,33 +5,50 @@
 @import 'modern-resume-theme';
 
 .theme-toggle {
-  position: fixed;
-  top: 1.5rem;
-  right: 1.5rem;
-  z-index: 10;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.6rem;
-  padding: 0.7rem 1rem;
-  color: #fff;
-  background-color: #477dca;
+  position: relative;
+  display: block;
+  width: 7.6rem;
+  height: 3.8rem;
+  margin-top: 1.2rem;
+  padding: 0;
+  color: #222;
+  background-color: #2f3032;
   border: 0;
-  border-radius: 0.3rem;
+  border-radius: 2rem;
   cursor: pointer;
-  font-size: 1.4rem;
   transition: background-color 0.2s ease;
 }
 
-.theme-toggle:hover,
-.theme-toggle:focus {
-  background-color: #3568ad;
+.theme-toggle::before {
+  position: absolute;
+  top: 0.3rem;
+  left: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  content: "\f185";
+  color: #222;
+  background-color: #fff;
+  border-radius: 50%;
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.8rem;
+  font-weight: 900;
+  line-height: 3.2rem;
+  transition: transform 0.2s ease;
 }
 
-@media screen and (max-width: 767px) {
-  .theme-toggle {
-    top: 1rem;
-    right: 1rem;
-    padding: 0.6rem 0.8rem;
-    font-size: 1.2rem;
-  }
+.theme-toggle[data-theme="dark"] {
+  color: #fff;
+  background-color: #fff;
+}
+
+.theme-toggle[data-theme="dark"]::before {
+  transform: translateX(3.8rem);
+  content: "\f186";
+  color: #fff;
+  background-color: #000;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  box-shadow: 0 0 0 0.2rem rgba(71, 125, 202, 0.35);
 }

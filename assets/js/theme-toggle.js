@@ -13,9 +13,7 @@
     document.body.classList.toggle('dark', dark);
     button.setAttribute('aria-pressed', String(dark));
     button.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
-    button.innerHTML = dark
-      ? '<i class="fas fa-sun" aria-hidden="true"></i><span>Light mode</span>'
-      : '<i class="fas fa-moon" aria-hidden="true"></i><span>Dark mode</span>';
+    button.setAttribute('data-theme', dark ? 'dark' : 'light');
   }
 
   updateTheme(isDark);
