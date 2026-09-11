@@ -19,6 +19,18 @@
   transition: background-color 0.2s ease;
 }
 
+.about-heading {
+  position: relative;
+}
+
+.about-heading .theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  margin-top: 0;
+  transform: translateY(-50%);
+}
+
 .theme-toggle::before {
   position: absolute;
   top: 0.3rem;
@@ -51,4 +63,10 @@
 .theme-toggle:hover,
 .theme-toggle:focus-visible {
   box-shadow: 0 0 0 0.2rem rgba(71, 125, 202, 0.35);
+}
+
+@media (max-width: 480px) {
+  .about-heading {
+    padding-right: 8.8rem;
+  }
 }
