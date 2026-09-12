@@ -71,7 +71,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           I designed and developed my very first application using <mark>RAP</mark> (ABAP RESTful Application Programming Model) alongside <mark>SAP Business Workflows</mark> with an integrated view in <mark>My Inbox</mark>. 
           The behavior definition and access control objects were created to display role-specific content within the application for administrators, requestors, and approvers. 
-          The application supports attachments, sends emails based on XML transformations, and writes training data into a custom HR infotype.
+          For the core logic I developed custom <mark>ABAP</mark> classes and methods.
+          The application supports attachments, sends emails based on XML transformations, and writes training data into a custom HR infotype. The standard worklist template was extended with custom <mark>JavaScript</mark>.
+          In the end, I created a catalog and assigned the application to the relevant <mark>Fiori</mark> space and page.
       - layout: left
         title: Workflow Overview Application
         sub_title: Heidelberg Materials, Global
