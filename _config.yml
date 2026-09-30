@@ -67,7 +67,7 @@ content:
       - layout: left
         title: Training Registration - RAP
         sub_title: Home Credit, Vietnam
-        caption: Duration - 3 months (2026)
+        caption: 
         description: | # this will include new lines to allow paragraphs
           I designed and developed my very first application using <mark>RAP</mark> (ABAP RESTful Application Programming Model) alongside <mark>SAP Business Workflows</mark> with an integrated view in <mark>My Inbox</mark>. 
           The behavior definition and access control objects were created to display role-specific content within the application for administrators, requestors, and approvers. 
